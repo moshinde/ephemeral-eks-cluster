@@ -5,8 +5,8 @@ Directory structure:
 
 eksCluster
 - package
-  - <kubernetes module>
-  - <eks_token module>
+  - kubernetes module
+  - eks_token module
 - lambda_function.py
 - ca.crt => base64 encoded certificate-authority-data
   
